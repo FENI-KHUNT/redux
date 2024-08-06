@@ -1,0 +1,27 @@
+body{
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 0px 4000px rgba(0, 0, 0, 0.7) inset;
+}
+.font_white{
+    color: white;
+}
+.shadow_form{
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgb(255, 255, 255,0.12) 0px 4px 6px, rgb(255, 255, 255,0.12) 0px 12px 13px, rgb(255, 255, 255,0.12) 0px -3px 5px;
+  }
+  .table{
+    background-color: transparent !important;
+  }
+  .table th{
+    background-color: transparent !important;
+    color: white !important;
+  }
+  .table td{
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+  }
+  .table tr{
+    border-color: black !important;
+  }
